@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Chopin_KernelSU_Proton",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+      "repo": "https://github.com/3113911626/Xiaomi_Kernel_OpenSource",
       "branch": "xaga-s-oss",
       "device": "gki",
       "defconfig": "gki_defconfig"
